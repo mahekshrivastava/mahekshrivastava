@@ -39,4 +39,4 @@ I also write about data, work, learning and figuring out my early 20s at [The Da
 
 🤝 Let's build together
 
-[LinkedIn](http://www.linkedin.com/in/mahekshrivastava03)) · [Substack](https://thedatadecoder.substack.com/) · [GitHub](https://github.com/mahekshrivastava)
+[LinkedIn](http://www.linkedin.com/in/mahekshrivastava03) · [Substack](https://thedatadecoder.substack.com/) · [GitHub](https://github.com/mahekshrivastava)
